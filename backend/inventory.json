@@ -1,0 +1,98 @@
+{
+  "Sidewalk Shed": [
+    {
+      "item": "item1",
+      "quantity": 10,
+      "description": "Lorem",
+      "notes": "Lorem consectetur"
+    },
+    {
+      "item": "item5",
+      "quantity": 5,
+      "description": "Lorem",
+      "notes": "Lorem consectetur"
+    },
+    {
+      "item": "item3",
+      "quantity": "3",
+      "description": "Lorem",
+      "notes": "Lorem consectetur"
+    },
+    {
+      "item": "item4",
+      "quantity": 12,
+      "description": "Lorem",
+      "notes": "Lorem consectetur"
+    },
+    {
+      "item": "item5",
+      "quantity": 9,
+      "description": "Lorem",
+      "notes": "Lorem consectetur"
+    }
+  ],
+  "Scaffold": [
+    {
+      "item": "item1",
+      "quantity": 15,
+      "description": "Lorem",
+      "notes": "Lorem consectetur"
+    },
+    {
+      "item": "item2",
+      "quantity": 8,
+      "description": "Lorem",
+      "notes": "Lorem consectetur"
+    },
+    {
+      "item": "item3",
+      "quantity": 20,
+      "description": "Lorem",
+      "notes": "Lorem consectetur"
+    },
+    {
+      "item": "item4",
+      "quantity": 10,
+      "description": "Lorem",
+      "notes": "Lorem consectetur"
+    },
+    {
+      "item": "item5",
+      "quantity": 5,
+      "description": "Lorem",
+      "notes": "Lorem consectetur"
+    }
+  ],
+  "Shoring": [
+    {
+      "item": "item1",
+      "quantity": 20,
+      "description": "Lorem",
+      "notes": "Lorem consectetur"
+    },
+    {
+      "item": "item2",
+      "quantity": 12,
+      "description": "Lorem",
+      "notes": "Lorem consectetur"
+    },
+    {
+      "item": "item3",
+      "quantity": 15,
+      "description": "Lorem",
+      "notes": "Lorem consectetur"
+    },
+    {
+      "item": "item4",
+      "quantity": 7,
+      "description": "Lorem",
+      "notes": "Lorem consectetur"
+    },
+    {
+      "item": "item5",
+      "quantity": 10,
+      "description": "Lorem",
+      "notes": "Lorem consectetur"
+    }
+  ]
+}

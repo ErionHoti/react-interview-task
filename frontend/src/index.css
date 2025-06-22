@@ -1,0 +1,29 @@
+@import "tailwindcss";
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+@theme {
+  --color-grey: #f4f5f6;
+  --color-green: #71cf48;
+  --color-green-hover: #68c142;
+  --color-light-green: #7ac14d;
+  --color-blue: #1264a3;
+  --color-blue-hover: #0f5c97;
+  --color-red: #fe4c4a;
+  --color-red-hover: #eb4345;
+  --color-yellow: #ecde7c;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #fff;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1f2a44;
+  border-radius: 5px;
+}

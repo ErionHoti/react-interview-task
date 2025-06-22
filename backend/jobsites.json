@@ -1,0 +1,185 @@
+[
+  {
+    "id": 1,
+    "name": "1658 E 23rd St, Brooklyn, NY",
+    "status": "Completed",
+    "categories": [
+      {
+        "value": "Scaffold",
+        "label": "Scaffold",
+        "color": "#ecde7c"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "1238 E 12rd St, Brooklyn, NY",
+    "status": "On Hold",
+    "categories": [
+      {
+        "value": "Shoring",
+        "label": "Shoring",
+        "color": "#9640BE"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "1418 E 11rd St, Brooklyn, NY",
+    "status": "On Road",
+    "categories": [
+      {
+        "value": "Sidewalk Shed",
+        "label": "Sidewalk Shed",
+        "color": "#71cf48"
+      },
+      {
+        "value": "Scaffold",
+        "label": "Scaffold",
+        "color": "#ecde7c"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "1788 E 29rd St, Brooklyn, NY",
+    "status": "Completed",
+    "categories": []
+  },
+  {
+    "id": 5,
+    "name": "1988 E 39rd St, Brooklyn, NY",
+    "status": "On Hold",
+    "categories": [
+      {
+        "value": "Scaffold",
+        "label": "Scaffold",
+        "color": "#ecde7c"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "1234 E 45rd St, Brooklyn, NY",
+    "status": "On Road",
+    "categories": [
+      {
+        "value": "Shoring",
+        "label": "Shoring",
+        "color": "#9640BE"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "1456 E 55rd St, Brooklyn, NY",
+    "status": "Completed",
+    "categories": [
+      {
+        "value": "Sidewalk Shed",
+        "label": "Sidewalk Shed",
+        "color": "#71cf48"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "1678 E 65rd St, Brooklyn, NY",
+    "status": "On Hold",
+    "categories": []
+  },
+  {
+    "id": 9,
+    "name": "1890 E 75rd St, Brooklyn, NY",
+    "status": "On Road",
+    "categories": [
+      {
+        "value": "Scaffold",
+        "label": "Scaffold",
+        "color": "#ecde7c"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "2012 E 85rd St, Brooklyn, NY",
+    "status": "Completed",
+    "categories": []
+  },
+  {
+    "id": 11,
+    "name": "2134 E 95rd St, Brooklyn, NY",
+    "status": "On Hold",
+    "categories": [
+      {
+        "value": "Shoring",
+        "label": "Shoring",
+        "color": "#9640BE"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "2256 E 105rd St, Brooklyn, NY",
+    "status": "On Road",
+    "categories": [
+      {
+        "value": "Sidewalk Shed",
+        "label": "Sidewalk Shed",
+        "color": "#71cf48"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "2378 E 115rd St, Brooklyn, NY",
+    "status": "Completed",
+    "categories": []
+  },
+  {
+    "id": 14,
+    "name": "2490 E 125rd St, Brooklyn, NY",
+    "status": "On Hold",
+    "categories": [
+      {
+        "value": "Scaffold",
+        "label": "Scaffold",
+        "color": "#ecde7c"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "2612 E 135rd St, Brooklyn, NY",
+    "status": "On Road",
+    "categories": [
+      {
+        "value": "Shoring",
+        "label": "Shoring",
+        "color": "#9640BE"
+      }
+    ]
+  },
+  {
+    "id": 1750605642597,
+    "name": "New Jobsite",
+    "status": "Completed",
+    "categories": [
+      {
+        "value": "Sidewalk Shed",
+        "label": "Sidewalk Shed",
+        "color": "#71cf48"
+      },
+      {
+        "value": "Scaffold",
+        "label": "Scaffold",
+        "color": "#ecde7c"
+      },
+      {
+        "value": "Shoring",
+        "label": "Shoring",
+        "color": "#c084fc"
+      }
+    ]
+  }
+]

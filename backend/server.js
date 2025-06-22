@@ -13,11 +13,9 @@ const categoryOptions = [
   { value: "Shoring", label: "Shoring", color: "#9640BE" },
 ];
 
-// File paths
 const jobsitePath = path.join(__dirname, "jobsites.json");
 const inventoryPath = path.join(__dirname, "inventory.json");
 
-// Read/write jobsites JSON file
 function readJobsites() {
   try {
     const data = fs.readFileSync(jobsitePath, "utf-8");

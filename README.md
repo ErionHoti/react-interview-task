@@ -28,19 +28,21 @@ Start the frontend development server:
 npm run dev
 
 
-Answers for question about considering secure and scalable 
+Answers for question about considering secure and scalable
+
 (Q) How might you make this app more secure?
-(A) Check inputs: Make sure all user data is safe and clean before using it.
-    Protect access: Only let the right people use or change the data.
-    Use HTTPS: Keep data safe over the internet.
-    Limit requests: Stop too many requests to avoid crashes or attacks.
-    etc.
+(A) 
+Check inputs: Make sure all user data is safe and clean before using it.
+Protect access: Only let the right people use or change the data.
+Use HTTPS: Keep data safe over the internet.
+Limit requests: Stop too many requests to avoid crashes or attacks.
+etc.
 
 (Q) How would you make this solution scale to millions of records?
 (A) Use a strong database with indexes on key fields to speed up searches.
-    Add pagination and filters to avoid loading too much data at once.
-    Cache data that’s requested often to reduce database work.
-    Balance traffic across multiple servers to handle more users.
-    Run heavy tasks in the background to keep the app fast.
-    Add more servers as needed to handle more traffic.
-    etc.
+Add pagination and filters to avoid loading too much data at once.
+Cache data that’s requested often to reduce database work.    
+Balance traffic across multiple servers to handle more users. 
+Run heavy tasks in the background to keep the app fast.
+Add more servers as needed to handle more traffic.
+etc.
